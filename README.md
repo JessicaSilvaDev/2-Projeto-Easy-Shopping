@@ -1,4 +1,4 @@
-<h1> Projeto Easy Shopping </h1>
+<h1 style="text-align: center;" align="center"> * Projeto Easy Shopping * </h1>
 
 <br> 
 <br> 
